@@ -1,7 +1,11 @@
 Digital Literacy Portfolio Project
+
 Name: Suyash Avatar
+
 Registration Number: 25BCE10367 Branch: B.Tech CSE CORE
+
 Year: 1st Year
+
 Course Code: CSE0001 – Digital Literacy
 
 Project Overview
