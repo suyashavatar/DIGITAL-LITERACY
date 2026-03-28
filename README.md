@@ -18,7 +18,7 @@ As a Student Digital Ambassador, I explored different areas of digital literacy 
 
 All tasks are organized in this GitHub repository to demonstrate proper digital documentation and presentation skills.
 
-Objectives 
+#Objectives 
 
 To understand the concept and importance of digital literacy
 
@@ -30,28 +30,28 @@ To develop effective digital communication skills
 
 To understand cyber threats and prevention methods
 
-Task Summary
+#Task Summary
 
-Task 1: Digital Literacy Infographic
+#Task 1: Digital Literacy Infographic
 Created an infographic using Canva to explain digital literacy concepts such as safe internet practices, useful tools, and professional online behavior.
 
-Task 2: Digital Portfolio
+#Task 2: Digital Portfolio
 Built professional profiles on platforms like GitHub, LinkedIn, and Kaggle to establish a digital identity and showcase skills.
 
-Task 3: Coding & Collaboration Platforms
+#Task 3: Coding & Collaboration Platforms
 Solved a beginner-level problem on HackerRank and created a Google Form quiz to understand collaboration and data collection tools.
 
 Google form link:(https://docs.google.com/forms/d/e/1FAIpQLSfwaCoxDzepWRllxtwmLNYfpWvwwQW8mOwwsIJJlTAFJ_O6sg/viewform?usp=dialog)
 
 
-Task 4: Email Etiquette & Social Media Awareness
+#Task 4: Email Etiquette & Social Media Awareness
 Drafted professional emails and created a checklist of responsible social media practices for students.
 
 
-Task 5: Cybercrime Awareness
+#Task 5: Cybercrime Awareness
 Prepared a case study on UPI fraud and created a prevention checklist with safety tips and reporting methods.
 
-Key Learnings
+#Key Learnings
 
 Gained practical knowledge of digital tools
 
@@ -63,7 +63,7 @@ Learned about cyber safety and online threats
 
 Developed skills in organizing work using GitHub
 
-Challenges Faced
+#Challenges Faced
 
 Learning GitHub repository structure initially
 
@@ -73,7 +73,7 @@ Writing professional emails with proper tone
 
 Understanding real-world cybercrime scenarios
 
-Future Plans
+#Future Plans
 
 Continue updating GitHub with new projects
 
@@ -81,13 +81,12 @@ Use LinkedIn for networking and career opportunities
 
 Practice coding regularly on online platforms
 
-
 Follow safe and responsible digital practices
 
-Conclusion
+#Conclusion
 This project helped me understand digital literacy in a practical way. It improved my technical skills, communication abilities, and awareness of online safety. The knowledge gained will be useful for my academic journey and future career.
 
-References
+#References
 
 https://www.canva.com
 
